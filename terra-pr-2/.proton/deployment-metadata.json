@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "69bdcca2-2e18-43b9-9478-c3ca1a782883",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-west-2:961987338749:environment/terra-pr-2",
+    "templateArn" : "arn:aws:proton:us-west-2:961987338749:environment-template/terra",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
