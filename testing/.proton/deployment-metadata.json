@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "bee3a112-c430-4878-993e-6b569a9acd0e",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-west-2:961987338749:environment/testing",
+    "templateArn" : "arn:aws:proton:us-west-2:961987338749:environment-template/terra",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
