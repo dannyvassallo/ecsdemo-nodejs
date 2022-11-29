@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "6a523e0f-feaf-4075-9d03-983455a17ad9",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:961987338749:environment/ccxz",
+    "templateArn" : "arn:aws:proton:us-east-1:961987338749:environment-template/terra-real",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
