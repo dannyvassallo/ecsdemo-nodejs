@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "6f3f7766-5a35-4fdf-8428-a868977db97b",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:us-west-2:961987338749:environment/dsdsa",
     "templateArn" : "arn:aws:proton:us-west-2:961987338749:environment-template/terra",
