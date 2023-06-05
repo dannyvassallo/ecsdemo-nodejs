@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "3284c4a4-deec-4288-8540-6113161f881e",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-west-2:961987338749:environment/generic-environments-bug-bash-terraform",
+    "templateArn" : "arn:aws:proton:us-west-2:961987338749:environment-template/generic-environments-bug-bash-terraform",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
